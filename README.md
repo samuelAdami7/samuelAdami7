@@ -12,6 +12,13 @@
 - Técnico em desenvolvimento de sistemas - SENAI
 - PR/BR
 
+## Contatos
+<p align="center">
+  <a href="https://www.instagram.com/samueldacruzadami/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-black?style=for-the-badge&logo=instagram&logoColor=E4405F" alt="Instagram"/>
+  </a>
+</a> <a href="mailto:samueldacruz329@gmail.com"> <img src="https://img.shields.io/badge/Gmail-black?style=for-the-badge&logo=gmail&logoColor=D14836" alt="Gmail"/> </a> 
+</p>
 
 ## Tecnologias E Ferramentas
 <p align = "center" > 
